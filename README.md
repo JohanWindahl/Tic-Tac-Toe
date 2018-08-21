@@ -1,4 +1,6 @@
 # Team-E-Tic-Tac-Toe
-Metoder och projektledning för mjukvaruutveckling
+Project in course: Software Engineering and Project Management - 1DL251
 
-Game engine
+**Language: Python**
+
+**Details:** An MVC-implementation of the game Tic-Tac-Toe was made with an unbeatable AI.
